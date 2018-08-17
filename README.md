@@ -1,4 +1,4 @@
-# Linear-Regression-Modeling
+# Hypothesis testing, Statistical Analysis and Regression Modeling in R
 Using linear regression to perform analysis of Crime Rate in North Carolina 
 
 ## Purpose
